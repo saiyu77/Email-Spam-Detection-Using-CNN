@@ -17,7 +17,7 @@ Step 1: Install Anaconda Navigator (https://www.anaconda.com/products/navigator)
 
 Step 2: Launch Jupyter Notebook
 
-Step 3: Open the source code folder and run all the cells of emaill.ipynb, emaillearn.ipynb and CNN.ipynb sequentially 
+Step 3: Open the source code folder and run all the cells of emaill.ipynb, emaillearn.ipynb and CNN.pdf sequentially 
 
 Step 4: Generate cnn_model.keras and tokenizer.pickle
 
