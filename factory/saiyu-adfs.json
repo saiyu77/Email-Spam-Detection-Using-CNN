@@ -1,0 +1,15 @@
+{
+	"name": "saiyu-adfs",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e43aa051-e0ee-4688-a03a-179da0cdef79",
+		"tenantId": "3249e8f4-b8f2-4c12-9600-9f0414efee15"
+	}
+}
